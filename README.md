@@ -5,10 +5,10 @@ Play Game
 
 #KeyBoard Setting
 - W, A, S, D = foward, left, backward, right
--Shift = Run
+- Shift = Run
 - T = LaserSight toggle
 - 1, 2 = MainWeapon(Default), SubWeapon
-- B = Change fire mode
+- B = Change fire mode(Default: Semi Auto)
 - ESC = Menu
 - Mouse left click = Fire
 - Mouse right click = Aimming(SubWeapon is not supported)
