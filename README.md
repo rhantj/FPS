@@ -29,5 +29,8 @@ Play Game
 - Mouse Sensitivity = Change the mouse sensitivity by moving the slide.
 - Brightnee = Change the screen brightness by moving the slide.
 
-#Ranking
-![image](https://github.com/rhantj/FPS/assets/102733751/919ba267-7c97-4e30-9945-0f24f68ad2d2)
+#Target System
+![image](https://github.com/rhantj/FPS/assets/102733751/87857ac7-b59d-4c15-8c88-780cb2252e84)
+
+#Demo Play
+https://www.youtube.com/watch?v=_4V9XlKgsHU
