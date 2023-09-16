@@ -4,14 +4,14 @@ Play Game
 
 
 #KeyBoard Setting
-W, A, S, D = foward, left, backward, right
-Shift = Run
-T = LaserSight toggle
-1, 2 = MainWeapon(Default), SubWeapon
-B = Change fire mode
-ESC = Menu
-Mouse left click = Fire
-Mouse right click = Aimming(SubWeapon is not supported)
+- W, A, S, D = foward, left, backward, right
+-Shift = Run
+- T = LaserSight toggle
+- 1, 2 = MainWeapon(Default), SubWeapon
+- B = Change fire mode
+- ESC = Menu
+- Mouse left click = Fire
+- Mouse right click = Aimming(SubWeapon is not supported)
 
 #Lobby Screen
 ![image](https://github.com/rhantj/FPS/assets/102733751/a3e50b6d-505b-4d11-aadf-7d04b3fbdc48)
